@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "purpose": "Persistent counter for successful hourly scheduled cycles.",
+  "threshold": 24,
+  "successful_cycles_since_last_synthesis": 0,
+  "last_successful_cycle_id": null,
+  "last_synthesis_id": null,
+  "last_synthesis_path": null,
+  "last_synthesis_commit": null,
+  "updated_at": null,
+  "history": []
+}
